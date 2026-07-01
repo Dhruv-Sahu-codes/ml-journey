@@ -1,32 +1,43 @@
 # ml-journey
-My ML learning journey from NumPy to building a full AI system using Reinforcement Learning 
+My ML learning journey from NumPy to building a full AI system using Reinforcement Learning
 
-# Learning Path
-Numpy -> Pandas -> Math Intuition -> Neural Network -> PyTorch -> RL -> AI system
+## Learning Path
+NumPy → Pandas → Math Intuition → Neural Networks → PyTorch → RL → AI System
 
-## Numpy
-Array - shape, ndim, size, dtype
+## NumPy ✅
+- Arrays — shape, ndim, size, dtype
+- Operations, broadcasting, indexing
+- Reshape, transpose, dot product
+- np.where, concatenate, stack, linalg
+- Practice problems
+- Image manipulation
 
-Opeartions, broadcasting, indexing
+## Pandas & Matplotlib ✅
+- Series, DataFrame, loc, iloc, filtering
+- Missing data handling — fillna, dropna
+- Merge, concat, pivot table, feature engineering
+- Matplotlib & Seaborn visualizations
+- EDA on Netflix dataset
 
-Reshape, Transpose, dot product
+## Math Intuition ✅
+- Vectors, matrices, linear transformations
+- Probability, normal distribution, Bayes theorem
+- Derivatives, chain rule, partial derivatives
+- Gradient descent — implemented from scratch
 
-np.where, concatenate, stack, linalg
-
-Practice Problem
-
-Image Manipulation
+## Neural Networks (In Progress 🔄)
+- Building from scratch using only NumPy
+- Forward pass, backpropagation, weight updates
 
 ## Projects
+1. Image Manipulation — numpy_image_manipulation.ipynb
+2. Netflix EDA — netflix_eda.ipynb
+3. Gradient Descent from Scratch — gradient_descent.ipynb
 
-1. Image Manipulation [day6_image_manipulation.ipynb]
-
-## Tech Stack 
-
-1. Python
-2. Numpy
-3. Pillow
-4. Jupyter Notebook
-
-
-
+## Tech Stack
+1. Python 3.10
+2. NumPy
+3. Pandas
+4. Matplotlib
+5. Seaborn
+6. Jupyter Notebook
